@@ -20,4 +20,4 @@ It then offers GUI interface where you can enter your league specific amount of 
 Using the personalized fantasy points given by the user and the large amount of data of the 2018 season, the program returns an excel sheet which list the players best to worst.
 With this personalized ordered list, you can ensure that you are drafting the best players for your particular NBA fantasy league
 
-Contributors: Harjap Gill, Shashaank Srivastava, Bryan Cheng
+Contributors: Harjap Gill, Bryan Cheng, Shashaank Srivastava
